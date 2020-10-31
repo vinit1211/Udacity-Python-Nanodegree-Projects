@@ -1,0 +1,7 @@
+The aim of this project is to understand the stastical operations in Python. We use mainly pandas.
+
+We find certain statistics using given datasets, of usage of rented bikes in new york, chicago, and washington cities.
+
+The files are in the format of .csv
+
+To run the project, execute bikeshare.py , which is present in the 'home' folder
