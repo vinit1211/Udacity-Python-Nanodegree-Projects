@@ -4,4 +4,5 @@ We find certain statistics using given datasets, of usage of rented bikes in new
 
 The files are in the format of .csv
 
-To run the project, execute bikeshare.py , which is present in the 'home' folder
+To run the project, execute bikeshare.py. 
+Once you open the .rar file, click the bikeshare folder, then click home folder and you will find bikeshare.py (or) follow the path bikeshare\home\bikeshare.py 
